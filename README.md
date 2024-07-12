@@ -1,0 +1,1 @@
+In this lesson I'm going to learn how to set up a website with a cuple of webpages, and then save it to my respository on Github.
