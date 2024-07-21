@@ -1,0 +1,18 @@
+* {
+background-color: lightgreen;
+}
+.big,#pop {
+    font-family: Helvetica, "Lucida Console", Fantasy;
+    font-size: 32px;
+}
+.big {
+    color:aliceblue
+}
+#pop {
+    color:purple
+}
+
+.pic1 {
+width: 100px;
+height: auto;
+}
