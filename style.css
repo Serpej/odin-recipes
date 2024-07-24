@@ -1,18 +1,22 @@
 * {
-background-color: lightgreen;
+background-color: rgb(255, 255, 255);
+font-family: Helvetica, "Lucida Console", Fantasy;
+box-sizing:content-box;
 }
-.big,#pop {
-    font-family: Helvetica, "Lucida Console", Fantasy;
+
+.recipes {
+font-size: 20px;
+}
+
+.big,
+#pop {    
     font-size: 32px;
-}
-.big {
-    color:aliceblue
-}
-#pop {
-    color:purple
+    color:rgb(0, 0, 0);
 }
 
 .pic1 {
-width: 100px;
-height: auto;
+width: 200px;
+margin: auto;
+border: 0.5em double black;
+display: flex;
 }
